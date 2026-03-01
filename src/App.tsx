@@ -1,6 +1,10 @@
+import Navbar from "./components/ui/Navbar"
+
 const App = () => {
   return (
-    <div>This is Open AI UI clone</div>
+    <div>
+      <Navbar />
+    </div>
   )
 }
 
