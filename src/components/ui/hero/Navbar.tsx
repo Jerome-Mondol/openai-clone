@@ -1,5 +1,5 @@
 import { Search } from "lucide-react"
-import Navlinks from "../common/Navlinks"
+import Navlinks from "../../common/hero/Navlinks"
 
 const Navbar = () => {
 

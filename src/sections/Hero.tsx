@@ -1,5 +1,5 @@
-import SearchTags from "../components/common/SearchTags"
-import Searchbar from "../components/ui/Searchbar"
+import SearchTags from "../components/common/hero/SearchTags"
+import Searchbar from "../components/ui/hero/Searchbar"
 
 
 const Hero = () => {
