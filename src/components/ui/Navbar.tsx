@@ -7,8 +7,7 @@ const Navbar = () => {
 
 
   return (
-    <nav className="w-[80%] mx-auto flex items-center h-16 justify-between" >
-        {/* Logo and Navlinks wrapper */}
+    <nav className="w-[80%] bg-black fixed top-0 left-1/2 -translate-x-1/2 z-[999] h-16 flex items-center justify-between" >        {/* Logo and Navlinks wrapper */}
         <div className="flex">
             {/* Logo */}
             <div className="text-white text-lg font-semibold" >OpenAI</div>
